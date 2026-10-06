@@ -8,7 +8,7 @@ in a clean and simple layout.
 
 [View Live Website](https://tanish-gupta21.github.io/Developer-Landing-Page/)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
